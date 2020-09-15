@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey! 👋 I'm Zach and I love building things.
 
-<!--
-**zcaceres/zcaceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and the entrepreneur behind projects like [Startup Cities](https://www.virgin.com/entrepreneur/startup-cities-can-entrepreneurship-save-politics) 🌆 and [an experimental college 🎓 named the MPC](https://mpc.ufm.edu/).
 
-Here are some ideas to get you started:
+I've also been an early engineer in a few startups including [Clay](https://www.clay.run) and [AskLorem](https://www.asklorem.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_____
+
+🛠️🧰🛠️ My Favorite Tools 🛠️🧰🛠️
+- Typescript
+- NodeJS
+- React
+- Serverless
+- GraphQL
+- Python
+
+_____
+
+## 💻 Software and Adventure 🤠
+![screenshot of zach.dev](./screenshot.png)
+
+My website & blog – [zach.dev](https://www.zach.dev)
+
+Email me – [hello@zach.dev](mailto:hello@zach.dev)
