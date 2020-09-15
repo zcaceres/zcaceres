@@ -17,7 +17,7 @@ _____
 _____
 
 ## 💻 Software and Adventure 🤠
-![screenshot of zach.dev](./screenshot.png)
+![screenshot of zach.dev](https://github.com/zcaceres/zcaceres/screenshot.png)
 
 My website & blog – [zach.dev](https://www.zach.dev)
 
