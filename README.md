@@ -6,7 +6,7 @@ I've also been an early engineer in a few startups including [Clay](https://www.
 
 _____
 
-🛠️🧰🛠️ My Favorite Tools 🛠️🧰🛠️
+🧰 My Favorite Tools 🛠️
 - Typescript
 - NodeJS
 - React
@@ -17,7 +17,7 @@ _____
 _____
 
 ## 💻 Software and Adventure 🤠
-![screenshot of zach.dev](https://github.com/zcaceres/zcaceres/screenshot.png)
+![screenshot of zach.dev](https://github.com/zcaceres/zcaceres/blob/master/screenshot.png)
 
 My website & blog – [zach.dev](https://www.zach.dev)
 
