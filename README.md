@@ -8,7 +8,7 @@ I've been an early engineer in a few startups including [Clay](https://www.clay.
 
 Learn more at [zach.dev](https://www.zach.dev)
 
-Email me at [hello@zach.dev](mailto:hello@zach.dev)
+Email me at `hello [at] zach [dot] dev`
 
 _____
 
