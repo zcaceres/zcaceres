@@ -4,7 +4,7 @@
 
 I'm a software engineer and the entrepreneur behind projects like [Startup Cities](https://perma.cc/BGG5-HBXW) 🌆 and [an experimental college 🎓 named the MPC](https://mpc.ufm.edu/).
 
-I've been an early engineer in a few startups including [Clay](https://www.clay.run) and [AskLorem](https://www.asklorem.com). I also built the platform to support the climate change non-profit [Makesoil.org](https://www.makesoil.org).
+I've been an early engineer in startups including [Clay](https://www.clay.run) and [AskLorem](https://www.asklorem.com). I also built the platform to support the climate change non-profit [Makesoil.org](https://www.makesoil.org). I maintain an active consulting practice where I've build solutions that bridge Deep Learning and web technologies.
 
 Learn more at [zach.dev](https://www.zach.dev)
 
