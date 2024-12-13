@@ -15,6 +15,8 @@ Email me at `hello [at] zach [dot] dev` or hit me up on
 
 _____
 
-My Favorite Tools 🧰 🛠️
+My Favorite Tools in 2024 🧰 🛠️
 - Typescript
 - Python
+- Zed.dev
+- Claude
