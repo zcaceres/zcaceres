@@ -17,6 +17,6 @@ _____
 
 My Favorite Tools in 2024 🧰 🛠️
 - Typescript
-- Python
 - Zed.dev
 - Claude
+- Warp terminal
