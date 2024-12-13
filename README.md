@@ -6,7 +6,7 @@ I'm a software engineer and the entrepreneur behind projects like [Startup Citie
 
 I've been an early engineer in startups including [Curology](https://www.curology.com), [Clay](https://www.clay.run), and [Storetasker](https://www.asklorem.com) as well as head of product at [Clarity Financial](https://www.clarityschools.com). I also built the platform to support the climate change non-profit [Makesoil.org](https://www.makesoil.org) and published the video game [Escape Dead Earth](https://www.escapedeadearth.com) which was favorably reviewed by [Vice Magazine](https://www.vice.com/en/article/88488z/escape-dead-earth-deathball-microstrategy-rts).
 
-I maintain an active consulting practice where I've built solutions that bridge AU and web technologies.
+I maintain an active consulting practice where I've built solutions that bridge AI and web technologies.
 
 Learn more at [zach.dev](https://www.zach.dev)
 
