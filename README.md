@@ -2,9 +2,9 @@
 
 # Hey! 👋 I'm Zach and I love building things.
 
-I'm a software engineer and the entrepreneur behind projects like [Startup Cities](https://www.startupcities.com/) 🌆 and [the MPC, an experimental college for creatives 🎓](https://mpc.ufm.edu/) in Guatemala City.
+I'm a software engineer and the entrepreneur behind projects like [Startup Cities](https://www.startupcities.com/) 🌆, [the MPC, an experimental college for creatives 🎓](https://mpc.ufm.edu/) in Guatemala City, [StoresData.com -- the world's best data on Shopify Stores](https://www.storesdata.com).
 
-I've been an early engineer in startups including [Curology](https://www.curology.com), [Clay](https://www.clay.run), and [Storetasker](https://www.asklorem.com) as well as a founding engineer and head of product at [Clarity Financial](https://www.clarityschools.com). I also built the platform to support the climate change non-profit [Makesoil.org](https://www.makesoil.org) and published the video game [Escape Dead Earth](https://www.escapedeadearth.com) which was favorably reviewed by [Vice Magazine](https://www.vice.com/en/article/88488z/escape-dead-earth-deathball-microstrategy-rts).
+I've been an early engineer in startups including [Curology](https://www.curology.com), [Clay](https://www.clay.run), and [Storetasker](https://www.storetasker.com) as well as a founding engineer and head of product at [Clarity Financial](https://www.clarityschools.com). I also built the platform to support the climate change non-profit [Makesoil.org](https://www.makesoil.org) and published the video game [Escape Dead Earth](https://www.escapedeadearth.com) which was favorably reviewed by [Vice Magazine](https://www.vice.com/en/article/88488z/escape-dead-earth-deathball-microstrategy-rts).
 
 I maintain an active consulting practice where I've built solutions that bridge AI and web technologies.
 
@@ -15,8 +15,9 @@ Email me at `hello [at] zach [dot] dev` or hit me up on
 
 _____
 
-My Favorite Tools in 2024 🧰 🛠️
+My Favorite Tools in 2025 🧰 🛠️
 - Typescript
 - Zed.dev
 - Claude
-- Warp terminal
+- Ghostty Terminal
+- Mastra
