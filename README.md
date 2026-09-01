@@ -15,9 +15,8 @@ Email me at `hello [at] zach [dot] dev` or hit me up on
 
 _____
 
-My Favorite Tools in 2025 🧰 🛠️
-- Typescript
-- Zed.dev
-- Claude
+My Favorite Tools in 2026 🧰 🛠️
+- Delta.dev
+- ~~Claude~~ Codex
+- Gemini 3.1 Flash Lite
 - Ghostty Terminal
-- Mastra
